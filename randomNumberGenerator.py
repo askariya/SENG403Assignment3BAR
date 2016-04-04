@@ -5,7 +5,7 @@ maximum = 0
 while flag:
     maximum = int(input("Enter the maximum amount: "))
     if (maximum < 20):
-        print("Not large enough   ;)   ---> please try again")
+        print("Not large enough, please try again")
         flag = 1
     else:
         flag = 0
