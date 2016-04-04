@@ -1,0 +1,21 @@
+Enter the maximum amount: 133
+Index 0: 7
+Index 1: 52
+Index 2: 51
+Index 3: 3
+Index 4: 94
+Index 5: 10
+Index 6: 87
+Index 7: 31
+Index 8: 37
+Index 9: 83
+Index 10: 111
+Index 11: 43
+Index 12: 11
+Index 13: 115
+Index 14: 5
+Index 15: 21
+Index 16: 55
+Index 17: 90
+Index 18: 58
+Index 19: 62
