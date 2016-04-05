@@ -1,0 +1,21 @@
+Enter the maximum amount: 554
+22Index 0: 365
+Index 1: 247
+Index 2: 508
+Index 3: 210
+Index 4: 38
+Index 5: 238
+Index 6: 73
+Index 7: 364
+Index 8: 276
+Index 9: 259
+Index 10: 212
+Index 11: 232
+Index 12: 332
+Index 13: 110
+Index 14: 196
+Index 15: 355
+Index 16: 317
+Index 17: 78
+Index 18: 456
+Index 19: 213
